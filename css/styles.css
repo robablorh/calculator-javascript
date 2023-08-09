@@ -1,0 +1,116 @@
+.table1{
+
+	margin-left: 130px;
+}
+.all{
+
+	border: 2px solid black;
+	margin-left: 400px;
+	margin-right: 400px;
+	height: 70vh;
+	background-color: cornsilk;
+
+}
+.heading{
+	text-align: center;
+}
+.screen{
+	width: 270px;
+	height: 50px;
+	font-size: 20px;
+	border-radius: 14px;
+}
+
+.btn1{
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn2{
+	background-color: blueviolet;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn3{
+	background-color: rosybrown;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn4{
+	background-color: greenyellow;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn5{
+	background-color: pink;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn6{
+	background-color: lightyellow;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn7{
+	background-color: greenyellow;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn8{
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn9{
+	background-color:paleturquoise ;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn10{
+	background-color: yellow;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn11{
+	background-color: orange;
+	color: black;
+	border-radius: 10px;
+}
+
+.btn12{
+	background-color: violet;
+	color: white;
+	border-radius: 10px;
+}
+
+.btn13{
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+}
+.btn14{
+	background-color: palegoldenrod;
+	color: black;
+	border-radius: 10px;
+}
+.btn15{
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+}
+.footer{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+
+}
